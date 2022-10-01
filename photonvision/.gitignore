@@ -1,0 +1,5 @@
+src/config.local
+src/image/*.zip
+src/image/*.xz
+src/workspace/**
+**/key.json
